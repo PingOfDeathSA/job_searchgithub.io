@@ -1,6 +1,6 @@
 {
-    "name": "seach",
-    "short_name": "seach",
+    "name": "search",
+    "short_name": "search",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
